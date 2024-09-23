@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rupesh Kumbhar</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
-<img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg&quot" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" data-target="animated-image.originalImage">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh-kumbhar&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh-kumbhar" /> </p>
 
 <!--
