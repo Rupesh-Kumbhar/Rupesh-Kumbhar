@@ -1,8 +1,6 @@
 <img src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm Rupesh Kumbhar</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh-kumbhar&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh-kumbhar" /> </p>
-
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupesh-kumbhar" alt="rupesh-kumbhar" /></a> </p>
 -->
