@@ -11,7 +11,9 @@
 
 - 🌱 I’m currently learning **Spring Boot, React and Java**
 
-- 👨‍💻 All of my projects are available at [https://rupesh-k-porfolio-5-april.netlify.app/](https://rupesh-k-porfolio-5-april.netlify.app/)
+- 📄 My Portfolio [https://rupesh-k-porfolio-5-april.netlify.app/](https://rupesh-k-porfolio-5-april.netlify.app/)
+  
+- 👨‍💻 All of my projects are available at [https://github.com/Rupesh-Kumbhar](https://github.com/Rupesh-Kumbhar)
 
 - 📫 How to reach me **rupesh.p.kumbhar@gmail.com**
 
