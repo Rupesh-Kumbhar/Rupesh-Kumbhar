@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, React and Java**
 
-- 📄 **My Portfolio**: <a href="https://rupesh-k-porfolio-5-april.netlify.app/" target="_blank">Visit My Portfolio</a>
+- 📄 **My Portfolio**: <a href="https://rupesh-k-portfolio-2025.netlify.app/" target="_blank">Visit My Portfolio</a>
 
 -  👨‍💻 **All My Projects**: <a href="https://github.com/Rupesh-Kumbhar" target="_blank">GitHub Profile</a>
 
