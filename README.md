@@ -1,4 +1,4 @@
-<img src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif" data-target="animated-image.originalImage">
+<img src="https://static.tildacdn.biz/tild3765-3730-4632-b739-643338323339/desk-full-gif.gif" >
 <h1 align="center">Hi 👋, I'm Rupesh Kumbhar</h1>
 <h3 align="center">A Passionate Fullstack Developer from India</h3>
 <!--
