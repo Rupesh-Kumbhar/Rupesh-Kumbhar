@@ -1,4 +1,4 @@
-<img src="[https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif](https://itgenio.net/blog/programmers-essential-kit)" data-target="animated-image.originalImage">
+<img src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm Rupesh Kumbhar</h1>
 <h3 align="center">A Passionate Fullstack Developer from India</h3>
 <!--
