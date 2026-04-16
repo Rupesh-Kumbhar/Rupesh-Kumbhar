@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <a href="https://linkedin.com/in/rupesh-kumbhar-54a9b6184" target="_blank">
@@ -32,7 +32,14 @@
       </a>
     </td>
   </tr>
-</table>
+</table> -->
+<p align="left">
+<a href="https://linkedin.com/in/rupesh-kumbhar-54a9b6184" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a><a href="https://instagram.com/rupesh_kumbhar_" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
