@@ -1,5 +1,6 @@
 <!-- <img src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif" > -->
-<img src="images/my-image.gif" />
+<!-- <img src="images/my-image.gif" /> -->
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/my-image.gif" alt="bg-img" />
 <h1 align="center">Hi 👋, I'm Rupesh Kumbhar</h1>
 <h3 align="center">A Passionate Fullstack Developer from India</h3>
 <!--
