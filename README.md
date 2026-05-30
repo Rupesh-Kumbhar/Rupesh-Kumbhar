@@ -1,6 +1,6 @@
-<div style="text-align: center;"> 
+<p align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHduZHMzdjhlMHN2cHdhZmp6bGN0MWphaGh6aTRheG5nNDYxcTBkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-</div>
+</p>
 <!-- <img src="images/my-image.gif" /> -->
 <!-- <img src="https://raw.githubusercontent.com/Rupesh-Kumbhar/Rupesh-Kumbhar/main/images/gh-bg-img.png" alt="bg-img" width="70%" /> -->
 
