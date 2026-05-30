@@ -5,7 +5,8 @@
 <!-- <img src="https://raw.githubusercontent.com/Rupesh-Kumbhar/Rupesh-Kumbhar/main/images/gh-bg-img.png" alt="bg-img" width="70%" /> -->
 
 
-<h1 align="center">Hi 👋, I'm Rupesh Kumbhar</h1>
+<!-- <h1 align="center">Hi 👋, I'm Rupesh Kumbhar</h1> -->
+<h2 align="center">Redirecting to Workspace 📁,  I'm Rupesh Kumbhar ⚡</h2>
 <h3 align="center">A Passionate Fullstack Developer from India</h3>
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupesh-kumbhar" alt="rupesh-kumbhar" /></a> </p>
