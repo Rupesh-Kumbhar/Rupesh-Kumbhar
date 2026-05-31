@@ -7,7 +7,7 @@
 
 <!-- <h1 align="center">Hi 👋, I'm Rupesh Kumbhar</h1> -->
 <h2 align="center">Redirecting to Workspace 📁,  I'm Rupesh Kumbhar ⚡</h2>
-<h3 align="center">A Passionate Fullstack Developer from India</h3>
+<h3 align="center">A Passionate Developer from India</h3>
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupesh-kumbhar" alt="rupesh-kumbhar" /></a> </p>
 -->
@@ -20,13 +20,13 @@
 
 <!-- - 📄 **My Portfolio**: <a href="https://rupesh-k-portfolio-2025.netlify.app/" target="_blank">Visit My Portfolio</a> -->
 
-- 📄 **My Portfolio**: <a href="https://rupesh-kumbhar.github.io/rk-portfolio/" target="_blank">Visit My Portfolio</a>
+- 📄 **My Portfolio** : <a href="https://rupesh-kumbhar.github.io/rk-portfolio/" target="_blank">Rupesh Kumbhar</a>
 
--  👨‍💻 **All My Projects**: <a href="https://github.com/Rupesh-Kumbhar" target="_blank">GitHub Profile</a>
+-  👨‍💻 **All My Projects** : <a href="https://github.com/Rupesh-Kumbhar" target="_blank">GitHub Profile</a>
 
-- 📫 How to reach me **rupesh.p.kumbhar@gmail.com**
+- 📫 Get in touch : **rupesh.p.kumbhar@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me : </h3>
 
 <!-- <table>
   <tr>
