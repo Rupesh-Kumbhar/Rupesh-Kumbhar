@@ -24,7 +24,7 @@
 
 -  👨‍💻 **All My Projects** : <a href="https://github.com/Rupesh-Kumbhar" target="_blank">GitHub Profile</a>
 
-- 📫 Get in touch : **rupesh.p.kumbhar@gmail.com**
+- 📫 Drop a mail : **rupesh.p.kumbhar@gmail.com**
 
 <h3 align="left">Connect with me : </h3>
 
